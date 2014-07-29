@@ -1,0 +1,2 @@
+serviceClass: eu.unturnament.client.GreetingService
+path: B3D9563B0AD301F2B793A9A81FAEB8CE.gwt.rpc

@@ -1,0 +1,3 @@
+# Module unturned
+# RPC service class, partial path of RPC policy file
+eu.unturnament.client.GreetingService, B3D9563B0AD301F2B793A9A81FAEB8CE.gwt.rpc
